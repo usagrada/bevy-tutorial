@@ -1,0 +1,10 @@
+# Rust
+target
+
+# macOS
+.DS_Store
+
+# app
+build
+
+assets/fonts/*
