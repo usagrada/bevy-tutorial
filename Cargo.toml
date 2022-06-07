@@ -6,4 +6,4 @@ authors = ["usagrada <usagrada.kind@gmail.com>"]
 edition = "2021"
 
 [dependencies]
-bevy = { git = "https://github.com/bevyengine/bevy.git" }
+bevy = "0.6"
